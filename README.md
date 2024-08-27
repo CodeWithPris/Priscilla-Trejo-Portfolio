@@ -43,7 +43,7 @@ Introducing FRC 6865 Manitoulin Metal, my latest and most advanced project. This
 
 **Technologies:** HTML5 | CSS | Bootstrap 5 | JavaScript | Sass | Github | Netlify
 
-**Features:** Slideshow, Gallery, Form, Social Media Integration, Mobile Responsiveness
+**Features:** Slideshow, Gallery, Form, Social Media Integration, Mobile Responsiveness.
 
 [Live Demo](https://frc6865.ca/)
 
@@ -54,6 +54,39 @@ Work-in-progress CRUD app that lets users document and relive the hiking adventu
 
 **Technologies:** MongoDB | Express | Vue.js | Node.js | Github | Netlify
 
-**Features:** Add and Save Trail Locations, Track Trail Conditions, Upload Photos and Videos, Add Notes
+**Features:** Add and Save Trail Locations, Track Trail Conditions, Upload Photos and Videos, Add Notes.
 
 Live Demo is coming soon.
+
+### Esch Photography
+![Picture of black and white camera.](images/esch.jpg)
+
+Currently developing a sleek photography portfolio with a gallery, password-protected pages, and optional social media integration. 
+
+**Technologies:** MongoDB | Express | Vue.js | Node.js | Github | Netlify
+
+**Features:** Gallery, Password-Protected Pages.
+
+Live Demo is coming soon.
+
+### The Robo-Pandas
+![Gif of The Robo-Pandas Website.](images/robopandas.gif)
+
+Explore the Robo-Pandas website, a hub for a middle school robotics team, featuring a sleek design and engaging transitions that add a playful touch to your experience.
+
+**Technologies:** HTML5 | CSS | JavaScript | Github | Netlify
+
+**Features:** User can sign up for team sponsorship plans, functional contact form, mobile resonsiveness.
+
+[Live Demo](https://team0101.netlify.app/#home)
+
+### Pure-Pup Pastries
+![Gif of Pure-Pup Pastries Website.](images/purepup.gif)
+
+Welcome to Pure-Pup Pastries, where our down-to-earth approach meets the digital world with a fully-responsive website. Explore our delectable organic treats for dogs, crafted with love and dedication, all within a user-friendly online experience that adapts seamlessly to any device.
+
+**Technologies:** HTML5 | CSS | JavaScript | Github | Netlify
+
+**Features:** Functional contact form, mobile responsiveness.
+
+[Live Demo](https://pure-pup-pastries.netlify.app/)
