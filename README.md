@@ -36,4 +36,13 @@ When I'm not coding, you can find me immersed in a Brandon Sanderson novel, on a
 
 ## Projects
 Here are some key projects in my portfolio:
-###FRC 6865 Manitoulin Metal
+### FRC 6865 Manitoulin Metal
+![Gif of FRC 6865 Project.](https://github.com/CodeWithPris/Priscilla-Trejo-Portfolio/blob/main/images/frc6865.gif)
+
+Introducing FRC 6865 Manitoulin Metal, my latest and most advanced project. This mobile-friendly website, built using the Bootstrap 5 library, provides everything a high school robotics team could need. With this new, fully functional website, Manitoulin Metal is poised to attract more sponsors and secure funding for the 2025 season.
+
+**Technologies:** HTML5 | CSS | Bootstrap 5 | JavaScript | Sass | Github | Netlify
+
+**Features:** Slideshow, Gallery, Form, Social Media Integration, Mobile Responsiveness
+
+[Live Demo](https://frc6865.ca/)
