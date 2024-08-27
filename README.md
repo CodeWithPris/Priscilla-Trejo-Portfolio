@@ -46,3 +46,14 @@ Introducing FRC 6865 Manitoulin Metal, my latest and most advanced project. This
 **Features:** Slideshow, Gallery, Form, Social Media Integration, Mobile Responsiveness
 
 [Live Demo](https://frc6865.ca/)
+
+### Reminisce
+![Picture of forest.](https://github.com/CodeWithPris/Priscilla-Trejo-Portfolio/blob/main/images/reminisce.jpg)
+
+Work-in-progress CRUD app that lets users document and relive the hiking adventures by adding locations to a map, journaling their experiences, and record the trail condition they experienced. Set to Launch in December 2024. 
+
+**Technologies:** MongoDB | Express | Vue.js | Node.js | Github | Netlify
+
+**Features:** Add and Save Trail Locations, Track Trail Conditions, Upload Photos and Videos, Add Notes
+
+Live Demo is coming soon.
