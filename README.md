@@ -91,6 +91,7 @@ Welcome to Pure-Pup Pastries, where our down-to-earth approach meets the digital
 
 ## Contact
 Please contact me for any full-time or free-lancing opportunities (or just to say hi)!
+
 [Email](mailto:im.priscilla.trejo@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/priscillantrejo/)
