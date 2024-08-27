@@ -2,12 +2,10 @@
 This repository showcases my projects, highlights my skills, and tells a a bit about my journey into software development. 
 
 ## Table of Contents
-- [Homepage](https://priscillatrejo.dev/)
-- [About](https://priscillatrejo.dev/#about)
-- [Skills](https://priscillatrejo.dev/#skills)
-- [Servicese](https://priscillatrejo.dev/#services)
-- [Projects](https://priscillatrejo.dev/#projects)
-- [Contact](https://priscillatrejo.dev/#contact)
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Contact](#contact)
 
 ## About Me
 I'm Priscilla N. Trejo, and I've had a deep passion for technology since childhood. My journey began with building Lego robots and exploring software, eventually leading me to create websites with tools like Weebly and Webs by the time I was 10.
