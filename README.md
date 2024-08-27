@@ -89,4 +89,8 @@ Welcome to Pure-Pup Pastries, where our down-to-earth approach meets the digital
 
 **Features:** Functional contact form, mobile responsiveness.
 
-[Live Demo](https://pure-pup-pastries.netlify.app/)
+## Contact
+
+[Email](im.priscilla.trejo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/priscillantrejo/)
+[Twitter](https://x.com/CodeWithPris)
