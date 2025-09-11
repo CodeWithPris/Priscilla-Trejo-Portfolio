@@ -1,5 +1,5 @@
 # Welcome to Priscilla N. Trejo's Portfolio!
-This repository showcases my projects, highlights my skills, and tells a a bit about my journey into software development. 
+This repository showcases my projects, highlights my skills, and tells you a bit about my journey into software development as a Comp Sci student. 
 
 ## Table of Contents
 - [About Me](#about-me)
@@ -10,88 +10,78 @@ This repository showcases my projects, highlights my skills, and tells a a bit a
 ## About Me
 I'm Priscilla N. Trejo, and I've had a deep passion for technology since childhood. My journey began with building Lego robots and exploring software, eventually leading me to create websites with tools like Weebly and Webs by the time I was 10.
 
-In high school, I joined a robotics team, where I learned the basics of Python and honed my critical thinking and collaboration skills while building a 120 lb robot. After graduation, I continued to volunteer for the program and started learning various programming languages with the goal of mentoring a team in the future.
+In high school, I was a part of a FIRST robotics team, where I learned the basics of Python and honed my critical thinking and collaboration skills while assisting with the creation of a 120 lb robot. After graduation, I continued to volunteer for the program and started learning various programming languages with the goal of mentoring a team in the future.
 
-Now, I work full-time at a bookstore while self-educating to become a full-stack developer. I've created functional and aesthetically pleasing applications for small businesses and nonprofits, using my skills to help those who need a web presence. I'm also an active member of local web development groups like freeCodeCamp Indy, where I organize weekly virtual events and recently gave a talk about one of my projects and its tech stack.
+On top of being a full-time bookstore employee, I am also enrolled at Southern New Hampshire University to obtain a Bachelor of Science in Computer Science, with the goal of working in Software Engineering or Database Development.
 
-When I'm not coding, you can find me immersed in a Brandon Sanderson novel, on a 10-mile hike with my partner, or working on digital art commissions.
+When I'm not coding, you can find me immersed in a Brandon Sanderson novel, on a 10-mile hike with my partner, or creating digital art for my Baldur's Gate 3 campaigns :)
 
 ## Skills
-- HTML5
-- CSS
-- JavaScript
-- Bootstrap 5
-- Node.js
-- MongoDB
-- Git
-- Github
-- Visual Studio Code
-- Postman
-- REST APIs
-- Shopify
-- Wix
-- Wordpress
+- **Programming Languages**: HTML5, CSS, JavaScript, Python, SQL
+- **Frameworks/Libraries**: Node.js, Bootstrap 5
+- **Databases**: MySQL
+- **Tools/Platforms**: Git/GitHub/GitHub Desktop, Visual Studio Code, MySQL Workbench, Figma
 
 ## Projects
 Here are some key projects in my portfolio:
+
+### My SQLibrary
+
+<img width="505" height="615" alt="eer database diagram" src="https://github.com/user-attachments/assets/d214fa92-8b20-46f4-a5aa-bbd8b642e636" />
+
+A Node.js & MySQL library management system designed to practice backend development and CRUD functionality.
+
+**Technologies:** MySQL, MySQL Workbench, Node.js, Express.js, JavaScript, Github/GitHub Desktop, Visual Studio Code
+
+**Features:** Relational database design, CRUD operations, RESTful routing, environment-based configuration (dev/prod), and error handling
+
+*Due to WIP status, this project isn't available for demo access yet!*
+
+---
+
+### Aetheria: Wrath of the Aetherwyrm
+
+<img width="528" height="48" alt="image" src="https://github.com/user-attachments/assets/b8b45c08-3413-4ebd-927e-4da67640df65" />
+
+A text-based Python adventure game featuring inventory management, directional movement, and a win/lose system based on collected items.
+
+**Technologies:** Python, Github/GitHub Desktop, Visual Studio Code
+
+**Features:** Directional movement via dictionary, inventory management system, typing animation for immersive storytelling
+
+*Visit the [repo](https://github.com/Percy390/Aetheria-Wrath-of-the-Aetherwyrm) to install the game!*
+
+---
+
+### The Ugly Cat & Dog Fact Generator
+
+<img width="403" height="495" alt="image" src="https://github.com/user-attachments/assets/1ac70f7e-b937-4cc2-9030-26194dfbfed6" />
+
+A fun, interactive web app using HTML, CSS, and JavaScript to fetch random cat and dog facts and images via public APIs.
+
+**Technologies:** HTML5, CSS3, JavaScript, APIs, GitHub, Netlify, Visual Studio Code
+
+**Features:** Displays random cat and dog facts on demand, light-weight layout, button-based user interaction
+
+[Live Demo](https://the-ugly-cat-and-dog-generator.netlify.app/)
+
+---
+
 ### FRC 6865 Manitoulin Metal
+
 ![Gif of FRC 6865 Project.](https://github.com/CodeWithPris/Priscilla-Trejo-Portfolio/blob/main/images/frc6865.gif)
 
-Introducing FRC 6865 Manitoulin Metal, my latest and most advanced project. This mobile-friendly website, built using the Bootstrap 5 library, provides everything a high school robotics team could need. With this new, fully functional website, Manitoulin Metal is poised to attract more sponsors and secure funding for the 2025 season.
+A mobile-friendly Bootstrap 5 website built for FRC 6865 Manitoulin Metal, showcasing team info and resources to attract sponsors and support funding efforts.
 
-**Technologies:** HTML5 | CSS | Bootstrap 5 | JavaScript | Sass | Github | Netlify
+**Technologies:** HTML5, CSS, Bootstrap 5, JavaScript, Sass, Github, Netlify, Visual Studio Code
 
 **Features:** Slideshow, Gallery, Form, Social Media Integration, Mobile Responsiveness.
 
 [Live Demo](https://frc6865.ca/)
 
-### Reminisce
-![Picture of forest.](https://github.com/CodeWithPris/Priscilla-Trejo-Portfolio/blob/main/images/reminisce.jpg)
-
-Work-in-progress CRUD app that lets users document and relive the hiking adventures by adding locations to a map, journaling their experiences, and record the trail condition they experienced. Set to Launch in December 2024. 
-
-**Technologies:** MongoDB | Express | Vue.js | Node.js | Github | Netlify
-
-**Features:** Add and Save Trail Locations, Track Trail Conditions, Upload Photos and Videos, Add Notes.
-
-Live Demo is coming soon.
-
-### Esch Photography
-![Picture of black and white camera.](images/esch.jpg)
-
-Currently developing a sleek photography portfolio with a gallery, password-protected pages, and optional social media integration. 
-
-**Technologies:** MongoDB | Express | Vue.js | Node.js | Github | Netlify
-
-**Features:** Gallery, Password-Protected Pages.
-
-Live Demo is coming soon.
-
-### The Robo-Pandas
-![Gif of The Robo-Pandas Website.](images/robopandas.gif)
-
-Explore the Robo-Pandas website, a hub for a middle school robotics team, featuring a sleek design and engaging transitions that add a playful touch to your experience.
-
-**Technologies:** HTML5 | CSS | JavaScript | Github | Netlify
-
-**Features:** User can sign up for team sponsorship plans, functional contact form, mobile resonsiveness.
-
-[Live Demo](https://team0101.netlify.app/#home)
-
-### Pure-Pup Pastries
-![Gif of Pure-Pup Pastries Website.](images/purepup.gif)
-
-Welcome to Pure-Pup Pastries, where our down-to-earth approach meets the digital world with a fully-responsive website. Explore our delectable organic treats for dogs, crafted with love and dedication, all within a user-friendly online experience that adapts seamlessly to any device.
-
-**Technologies:** HTML5 | CSS | JavaScript | Github | Netlify
-
-**Features:** Functional contact form, mobile responsiveness.
-
 ## Contact
-Please contact me for any full-time or free-lancing opportunities (or just to say hi)!
 
 [Email](mailto:im.priscilla.trejo@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/priscillantrejo/)
 
-[Twitter](https://x.com/CodeWithPris)
